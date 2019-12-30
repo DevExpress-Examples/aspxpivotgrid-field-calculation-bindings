@@ -1,7 +1,7 @@
 *Files to look at*:
 * [Default.aspx](CS/AspNetWebFormsPivotFieldCalculationBindings/Default.aspx)
 
-# Asp.Net Web Forms Pivot Grid - How to Create Field Calculation Bindings
+# ASP.NET Web Forms Pivot Grid - How to Create Field Calculation Bindings
 
 The example illustrates how to create calculation bindings for Pivot Grid fields. A [window](https://docs.devexpress.com/CoreLibraries/401365) in this example is the combination of the _Category/Product_ and _Country_ dimensions.
 
