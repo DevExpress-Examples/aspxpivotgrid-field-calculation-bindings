@@ -35,7 +35,7 @@ API in this example:
 
 * [ExpressionDataBinding](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPivotGrid.ExpressionDataBinding)
 
-    Defines a calculation based on a string expression. The Expression _Min([Extended Price])_ 
+    Defines a calculation based on a string expression. The Expression _Min([Extended Price])_ displays a minimum value from the underlying data grouped by the specified window.
 
 * [MovingCalculationBinding](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPivotGrid.MovingCalculationBinding)
  
