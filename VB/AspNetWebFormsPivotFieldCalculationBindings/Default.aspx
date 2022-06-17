@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="Home Page" Language="vb" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.vb" 
 	Inherits="AspNetWebFormsPivotFieldCalculationBindings._Default" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v19.2, Version=19.2.13.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" 
+<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v19.2, Version=19.2.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" 
 	Namespace="DevExpress.Web.ASPxPivotGrid" TagPrefix="dx" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
