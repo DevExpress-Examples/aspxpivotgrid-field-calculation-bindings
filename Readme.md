@@ -6,7 +6,7 @@
 *Files to look at*:
 * [Default.aspx](CS/AspNetWebFormsPivotFieldCalculationBindings/Default.aspx)
 
-# ASP.NET Web Forms Pivot Grid - How to use Data Binding API to Bind a Pivot Grid Field to Data
+# ASP.NET Web Forms Pivot Grid - How to use Data Binding API to bind the Pivot Grid field to data
 
 The [Optimized Calculation](http://docs.devexpress.devx/CoreLibraries/401367/devexpress-pivot-grid-core-library/data-processing-engines/pivot-grid-optimized-calculation-engine) mode uses the Data Binding API that provides a set of [Intermediate Level Aggregations](http://docs.devexpress.devx/CoreLibraries/401198/devexpress-pivot-grid-core-library/pivot-grid-aggr) and [Calculations](https://docs.devexpress.com/CoreLibraries/401375/devexpress-pivot-grid-core-library/window-calculations/window-functions).
 
