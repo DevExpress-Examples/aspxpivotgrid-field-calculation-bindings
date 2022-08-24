@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# ASP.NET Web Forms Pivot Grid - How to use Data Binding API to bind the Pivot Grid field to data
+# ASP.NET Web Forms Pivot Grid - How to Use Data Binding API to Bind the Pivot Grid Field to Data
 
 The example illustrates how to use Data Binding API to bind the Pivot Grid field to data. A [window](https://docs.devexpress.com/CoreLibraries/401365) in this example is the combination of the _Category/Product_ and _Country_ dimensions.
 
@@ -12,7 +12,7 @@ The example illustrates how to use Data Binding API to bind the Pivot Grid field
 
 ## Files to Look at
 
-Default.aspx](CS/AspNetWebFormsPivotFieldCalculationBindings/Default.aspx)
+[Default.aspx](CS/AspNetWebFormsPivotFieldCalculationBindings/Default.aspx)
 
 ## Related API
 
