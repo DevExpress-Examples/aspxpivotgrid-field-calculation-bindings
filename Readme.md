@@ -3,18 +3,19 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T848937)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-*Files to look at*:
-* [Default.aspx](CS/AspNetWebFormsPivotFieldCalculationBindings/Default.aspx)
 
 # ASP.NET Web Forms Pivot Grid - How to use Data Binding API to bind the Pivot Grid field to data
-
-The [Optimized Calculation](http://docs.devexpress.devx/CoreLibraries/401367/devexpress-pivot-grid-core-library/data-processing-engines/pivot-grid-optimized-calculation-engine) mode uses the Data Binding API that provides a set of [Intermediate Level Aggregations](http://docs.devexpress.devx/CoreLibraries/401198/devexpress-pivot-grid-core-library/pivot-grid-aggr) and [Calculations](https://docs.devexpress.com/CoreLibraries/401375/devexpress-pivot-grid-core-library/window-calculations/window-functions).
 
 The example illustrates how to use Data Binding API to bind the Pivot Grid field to data. A [window](https://docs.devexpress.com/CoreLibraries/401365) in this example is the combination of the _Category/Product_ and _Country_ dimensions.
 
 ![pivot-grid-data-bindings](pivot-grid-data-bindings.png)
 
-API in this example:
+## Files to Look at
+
+Default.aspx](CS/AspNetWebFormsPivotFieldCalculationBindings/Default.aspx)
+
+## Related API
+
 * [DataSourceColumnBinding](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPivotGrid.DataSourceColumnBinding)
 
     Defines a data binding to a source data column.
@@ -47,10 +48,10 @@ API in this example:
  
     Calculates aggregations across a specified number of values before and/or after the current value.
 
-## See Also
+## Documentation
 
 - [Data Binding API](http://docs.devexpress.com/CoreLibraries/401533/devexpress-pivot-grid-core-library/data-binding-api)
 - [Window Calculation Functions](https://docs.devexpress.com/CoreLibraries/401375/devexpress-pivot-grid-core-library/window-calculations/window-functions)
 - [Pivot Grid Expression Syntax](http://docs.devexpress.devx/CoreLibraries/120512/devexpress-pivot-grid-core-library/pivot-grid-expression-syntax)
-- [Bind Pivot Grid Fields to Window Calculations](https://docs.devexpress.com/AspNet/403970/components/pivot-grid/binding-to-data/bind-pivot-grid-fields-to-window-calculations)
+
  
