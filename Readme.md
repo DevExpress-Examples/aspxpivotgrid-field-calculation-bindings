@@ -52,4 +52,5 @@ API in this example:
 - [Data Binding API](http://docs.devexpress.com/CoreLibraries/401533/devexpress-pivot-grid-core-library/data-binding-api)
 - [Window Calculation Functions](https://docs.devexpress.com/CoreLibraries/401375/devexpress-pivot-grid-core-library/window-calculations/window-functions)
 - [Pivot Grid Expression Syntax](http://docs.devexpress.devx/CoreLibraries/120512/devexpress-pivot-grid-core-library/pivot-grid-expression-syntax)
+- [Bind Pivot Grid Fields to Window Calculations](https://docs.devexpress.com/AspNet/403970/components/pivot-grid/binding-to-data/bind-pivot-grid-fields-to-window-calculations)
  
