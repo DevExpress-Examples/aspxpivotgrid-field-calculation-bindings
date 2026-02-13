@@ -57,7 +57,7 @@ The example illustrates how to use Data Binding API to bind the Pivot Grid field
 
  
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxpivotgrid-field-calculation-bindings&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxpivotgrid-field-calculation-bindings&~~~was_helpful=no)
 
